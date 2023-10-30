@@ -1,0 +1,9 @@
+.igoose-image-background {
+    margin-right: 10px;
+    background-color: #cad0ee;
+    border-radius: 100px;
+}
+
+.igoose-image-background:hover {
+    background-color: #444791;
+}
